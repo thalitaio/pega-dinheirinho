@@ -1,0 +1,17 @@
+PASSO A PASSO
+
+> 15/6 - criei as imagens usados no jogo
+> 15/6 - comecei o html e js; 
+apliquei o onresize para ajuste do palco do jogo na tela do browser; 
+criei a posição aleatória para a imagem dinheirinho;
+subtraí 90 das posições x e y, para que a imagem não saia do palo
+igualei os valores < 0 a 0, para que não saia do palco
+usei o switch para variar o tamanho do dinheirinho
+também apliquei o lado aleatório
+> 21/06
+continuei com o lado aleatório. mesmo invertindo o $ da imagem, acho que vale a pena manter pela dinâmica da imagem
+criada id dinheirinho e função para remover caso já exista, tirando a repetição do dinheirinho na tela
+adicionei o background no css
+implementei painel vidas e cronometro
+nova pagina html para o game over
+botão reiniciar jogo, voltando para o app.html
